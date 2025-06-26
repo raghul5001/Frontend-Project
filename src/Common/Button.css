@@ -1,0 +1,11 @@
+#but1{
+    border: none;
+    height: 50px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: #A16220;
+    margin-top: 30px;
+    color: #ffffff;
+    cursor: pointer;
+    min-width: 128px;
+}
