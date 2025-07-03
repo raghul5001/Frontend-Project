@@ -1,0 +1,82 @@
+$primarycolor:rgb(252, 237, 241,0.5);
+.wallpaper{
+    width: 100%
+
+}
+.imgtextcont{
+    position: relative;
+
+}
+.imagetxt{
+    color: white;
+    font-size: xx-large;  
+}
+.wallantics{
+    font-family: Calisto MT;
+    font-weight: 700;
+    position: absolute;
+    top: 30%; 
+    left:40%
+    
+}
+.smalltxt{
+    font-family: Lato;
+     position: absolute;
+    top: 40%; 
+    left:33%
+}
+.dots{
+    position: absolute;
+    top: 77%;
+    left: 48%;
+    height: 10px;
+
+}
+.msg{
+    position: absolute;
+    top: 82%;
+    left: 90%;
+    width: 100px;
+
+}
+.why{
+    margin-left: 40%;
+    padding: 30px;
+    font-weight: 700;
+}
+.two{
+background-color:$primarycolor;
+width:100%;
+height:34vh;
+display: flex;
+justify-content: space-around;
+
+
+}
+.truck,.shld,.bulb,.box{
+    padding-top: 40px;
+    height: 100px;
+    
+}
+
+.people{
+    margin-top:25px; ;
+    background-color: white;
+    width: 150px;
+    height:  28vh;
+    border-radius: 7%;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+}
+.ppl{
+    margin-left:30%;
+    padding-top: 10%;
+    height: 80px;
+    
+   
+}
+.million,.long,.col,.year,.free{
+    margin-top: 30px;
+   
+    font-weight: 700;
+
+}
