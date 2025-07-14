@@ -6,6 +6,8 @@ import contact from "./image/contact.png"
 import country from "./image/country.png"
 import search from "./image/search.png"
 import Button from '../Button'
+import { Link } from 'react-router-dom';
+
 
 
 const Header = () => {
@@ -32,10 +34,10 @@ const Header = () => {
 
                 </div>
                 <div id='navlbut'>
-                    {/* <Link to="/login">
-                    <Button txt="Login"/>
-                    </Link> */}
-                    <Button txt="Login"/>
+                     <Link to="/login">
+                     <Button txt="Login"/>
+                    </Link> 
+                    
                    
 
 
